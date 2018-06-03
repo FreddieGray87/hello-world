@@ -1,2 +1,5 @@
 # hello-world
-My first ever repository
+
+Hello Planet Earth
+
+Fred here! Just learning to do this hope this works!
